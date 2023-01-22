@@ -1,0 +1,38 @@
+body {
+    font-family: Helvetica;
+}
+
+header {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("../images/Image_1_Header.jpeg");
+}
+
+.item h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.section-img {
+    margin-left: 0px;
+}
+
+#brush-title {
+    background-color: mediumspringgreen;
+}
+
+#frame-title {
+    background-color: lightcoral;
+}
+
+#paint-title {
+    background-color: skyblue;
+}
+
+.price {
+    color: blue;
+    font-weight: bold;
+}
